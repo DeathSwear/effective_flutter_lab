@@ -1,16 +1,16 @@
-# effective_flutter_lab
+Лабораторная работа по Flutter. 
+Сделана в Android Studio.
+Возможно важное для запуска (из pubspec.yaml):
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+  
+![1](https://github.com/DeathSwear/effective_flutter_lab/assets/66869182/7f05912e-715c-4719-9cd8-eed808da7db9) ![2](https://github.com/DeathSwear/effective_flutter_lab/assets/66869182/6ef81f32-21ee-496e-a7c3-5ff5239b751f)
 
-Flutter lab from Effective
+![3](https://github.com/DeathSwear/effective_flutter_lab/assets/66869182/25107f72-6feb-46bb-bc95-268fe3c2e286) ![4](https://github.com/DeathSwear/effective_flutter_lab/assets/66869182/b3e1bfbd-503d-4c13-91e0-0db4432124c2)
 
-## Getting Started
+С рипл эффектом: крест и выход, карточка подписки, Тайлы из тарифов и лимитов.
+Тэги можно выделить и убрать выделение соответственно.
 
-This project is a starting point for a Flutter application.
+![5](https://github.com/DeathSwear/effective_flutter_lab/assets/66869182/de2d1026-a777-4ab0-a744-8fcb1b7629a1)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
